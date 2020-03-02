@@ -7,19 +7,25 @@ TODO
 
 ## Publications
 
-TODO
+For now, please refer to [DBLP](https://dblp.uni-trier.de/pers/hd/j/Junges:Sebastian) or [Google Scholar](https://scholar.google.com/citations?user=anwAmOEAAAAJ&hl=de) for an overview of my publications.
 
 
 ## Professional Activities
 
 ### Invited Talks
 
-TODO
+I have given invited talks at:
+
+- [GT Verif 2018](http://gt-verif.loria.fr/Wiki.jsp?page=JA-2018)
+- [Theory and Algorithms in Graph and Stochastic Games 2019](http://math.umons.ac.be/gamenet2019/)
+
+Moreover, I have given (external) seminar talks at ISCAS (Beijing), IST Austria, LaBRI (Bordeaux), Stanford, UC Berkeley, and ULB (Brussels), and at the ROCKS Meetings.
 
 ### PC Membership
 
 - [FORMATS 2020](https://formats-2020.cs.ru.nl)
 - [SETTA 2020](http://lcs.ios.ac.cn/setta2020/index.html)
+- [QAVS 2020](https://qavs.edgecloud.de)
 - ATVA Artefact Evaluation 2019
 
 ### External Reviewer
