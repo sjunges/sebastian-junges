@@ -1,19 +1,19 @@
 *This website is under construction*
 
-I am a researcher and have been a PostDoc at UC Berkeley since March 2020.
+I am a researcher and have been a PostDoc at UC Berkeley since March 2020. I am part of the Learn and Verify Group, headed by Sanjit Seshia. 
 
 Previously, I was a PhD student at [RWTH Aachen University](https://moves.rwth-aachen.de/), under the supervision of Joost-Pieter Katoen. 
-I defended my PhD thesis titled Parameter Synthesis in Markov Models in February 2020. 
+I defended my PhD thesis titled [Parameter Synthesis in Markov Models](http://doi.org/10.18154/RWTH-2020-02348) [(pdf)](http://publications.rwth-aachen.de/record/783179/files/783179.pdf) in February 2020.  
 
 ## Research Interest
 
 I am broadly interested in the automatic analysis of critical systems. This interest includes modelling and verification aspects. In particular, I am interested in the analysis of models that explicitly model uncertainty.  
 
 Some models and methods I often work with are:
-- (Probabilistic) Model checking and abstraction
-- SAT and SMT solvers
+- (Probabilistic) Model checking and abstraction.
+- SAT and SMT solvers.
 - Markov decision processes (MDPs), in particular also parametric or partially observable MDPs.
-- Fault trees, in particular their dynamic extensions
+- Fault trees, in particular their dynamic extensions.
 
 ## Publications
 
