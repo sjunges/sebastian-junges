@@ -40,8 +40,8 @@ Over the years, I’ve been involved in the development of the following tools t
 
 I have given invited talks at:
 
-- [GT Verif 2018](http://gt-verif.loria.fr/Wiki.jsp?page=JA-2018)
 - [Theory and Algorithms in Graph and Stochastic Games 2019](http://math.umons.ac.be/gamenet2019/)
+- [GT Verif 2018](http://gt-verif.loria.fr/Wiki.jsp?page=JA-2018)
 
 Moreover, I have given (external) seminar talks at ISCAS (Beijing), IST Austria, LaBRI (Bordeaux), Stanford, UC Berkeley, ULB (Brussels), and at the ROCKS Meetings.
 
@@ -49,6 +49,7 @@ Moreover, I have given (external) seminar talks at ISCAS (Beijing), IST Austria,
 
 - [FORMATS 2020](https://formats-2020.cs.ru.nl)
 - [SETTA 2020](http://lcs.ios.ac.cn/setta2020/index.html)
+- [SYNT 2020](http://pl.cs.uchicago.edu/synt2020/)
 - [QAVS 2020](https://qavs.edgecloud.de)
 - ATVA Artefact Evaluation 2019
 
@@ -56,7 +57,7 @@ Moreover, I have given (external) seminar talks at ISCAS (Beijing), IST Austria,
 #### Conferences
 ATVA, ADHS, CAV, CDC, FM, FORTE, Gandalf, HVC, ICALP, iFM, MMB, PSI, QEST, SafeComp.
 #### Journals
-FMSD, J.Systems and Software
+FMSD, J.Systems and Software, JCST
 
 ### Organised Events
 
@@ -83,18 +84,23 @@ I co-organised the 1st and 2nd UnRAVEL Spring Meetings.
 - Kevin Batz, Probabilistic IC3 (MSc, RWTH) -- together with Benjamin Kaminski and Christoph Matheja 
 
 ### Lectures
-- Model Checking (Winter 2019)
-- Datastructures and Algorithms (Summer 2018) 
-- Concurrency Theory (Winter 2017)
-- Compiler Construction (Summer 2017)
-- Introduction to Model Checking (Summer 2016)
-- Modeling and Verification of Probabilistic Systems (Winter 2015)
+- Model Checking (RWTH, Winter 2019)
+- Datastructures and Algorithms (RWTH, Summer 2018) 
+- Concurrency Theory (RWTH, Winter 2017)
+- Compiler Construction (RWTH, Summer 2017)
+- Introduction to Model Checking (RWTH, Summer 2016)
+- Modeling and Verification of Probabilistic Systems (RWTH, Winter 2015)
 
-### Seminar Projects
-- Introduction to Program Analysis (Proseminar, Sumer 2019)
-- Trends and Pearls of Model Checking (Seminar, Winter 2019)
-- Formal Verification Meets Machine Learning (Seminar, Summer 2018)
-- Programming Language Design and Implementation (Seminar, Winter 2017)
-- Introduction to Program Analysis (Proseminar, Winter 2016)
-- Probabilistic Programming (Seminar, Summer 2016)
-- Algorithms and Data Structures (Proseminar, Winter 2015)
+### Seminar Projects 
+- Introduction to Program Analysis (RWTH, Proseminar, Sumer 2019)
+- Trends and Pearls of Model Checking (RWTH, Seminar, Winter 2019)
+- Formal Verification Meets Machine Learning (RWTH, Seminar, Summer 2018)
+- Programming Language Design and Implementation (RWTH, Seminar, Winter 2017)
+- Introduction to Program Analysis (RWTH, Proseminar, Winter 2016)
+- Probabilistic Programming (RWTH, Seminar, Summer 2016)
+- Algorithms and Data Structures (RWTH, Proseminar, Winter 2015)
+
+### Guest lectures
+- Introduction to probabilistic model checking (UC Berkeley, Formal Methods, 2020)
+- On parameter synthesis (RWTH, Modeling and Verification of Probabilistic Systems, 2019)
+
