@@ -55,9 +55,9 @@ Moreover, I have given (external) seminar talks at ISCAS (Beijing), IST Austria,
 
 ### External Reviewer
 #### Conferences
-ATVA, ADHS, CAV, CDC, FM, FORTE, Gandalf, HVC, ICALP, iFM, MMB, PSI, QEST, SafeComp.
+ATVA, ADHS, CAV, CDC, Concur, FM, FORTE, Gandalf, HVC, ICALP, iFM, MMB, PSI, QEST, SafeComp.
 #### Journals
-FMSD, J.Systems and Software, JCST
+FMSD, J.Systems and Software, JCST, STTT
 
 ### Organised Events
 
