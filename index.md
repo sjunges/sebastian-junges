@@ -57,7 +57,7 @@ Moreover, I have given (external) seminar talks at ISCAS (Beijing), IST Austria,
 #### Conferences
 ATVA, ADHS, CAV, CDC, Concur, FM, FORTE, Gandalf, HVC, ICALP, iFM, MMB, PSI, QEST, SafeComp.
 #### Journals
-FMSD, J.Systems and Software, JCST, STTT
+FMSD, J.Systems and Software, JCST, Machine Learning, STTT
 
 ### Organised Events
 
@@ -79,9 +79,10 @@ I co-organised the 1st and 2nd UnRAVEL Spring Meetings.
 - Dustin Jungen, Repairs in Dynamic Fault Trees (BSc, RWTH) -- together with Matthias Volk
 - Sebastian Kruse, Model Checking a Wireless Token-Passing Network (MSc, RWTH)
 - Sven Deserno,  Model Checking Families of Markov Chains (MSc, RWTH) -- together with Benjamin Kaminski
-- Jip Spel, Monotonicity in Markov Chains (MSc, RWTH)
+- Jip Spel, Monotonicity in Markov Chains (MSc, University of Twente)
 - Dustin Jungen, SAT-Based Methods for Solving POMDP problems (MSc, RWTH)
 - Kevin Batz, Probabilistic IC3 (MSc, RWTH) -- together with Benjamin Kaminski and Christoph Matheja 
+- Marnix Suilen, Multi-environment MDPs -- with Nils Jansen
 
 ### Lectures
 - Model Checking (RWTH, Winter 2019)
