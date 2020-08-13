@@ -5,6 +5,8 @@ I am a researcher and have been a PostDoc at UC Berkeley since March 2020. I am 
 Previously, I was a PhD student at [RWTH Aachen University](https://moves.rwth-aachen.de/), under the supervision of Joost-Pieter Katoen. 
 I defended my PhD thesis titled [Parameter Synthesis in Markov Models](http://doi.org/10.18154/RWTH-2020-02348) [(pdf)](http://publications.rwth-aachen.de/record/783179/files/783179.pdf) in February 2020.  
 
+You can reach me at sjunges?berkeley.edu
+
 ## Research Interest
 
 I am broadly interested in the automatic analysis of critical systems. This interest includes modelling and verification aspects. In particular, I am interested in the analysis of models that explicitly model uncertainty.  
