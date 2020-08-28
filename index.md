@@ -57,13 +57,14 @@ Moreover, I have given (external) seminar talks at ISCAS (Beijing), IST Austria,
 
 ### External Reviewer
 #### Conferences
-ATVA, ADHS, CAV, CDC, Concur, FM, FORTE, Gandalf, HVC, ICALP, iFM, MMB, PSI, QEST, SafeComp.
+ATVA, ADHS, CAV, CDC, Concur, FM, FORTE, Gandalf, HVC, ICALP, iFM, Memocode, MMB, PSI, QEST, SafeComp.
 #### Journals
 FMSD, J.Systems and Software, JCST, Machine Learning, STTT
 
 ### Organised Events
 
-I co-organised the 1st and 2nd UnRAVEL Spring Meetings.
+- I co-organised the 1st and 2nd UnRAVEL Spring Meetings.
+- I co-organised the 'Aachener Informatik Tage', a STEM-outreach event for highschool pupils, several times.
 
 ### Event participation
 
@@ -86,13 +87,17 @@ I co-organised the 1st and 2nd UnRAVEL Spring Meetings.
 - Kevin Batz, Probabilistic IC3 (MSc, RWTH) -- together with Benjamin Kaminski and Christoph Matheja 
 - Marnix Suilen, Multi-environment MDPs -- with Nils Jansen
 
-### Lectures
+### Lectures (Teaching Assistance)
 - Model Checking (RWTH, Winter 2019)
 - Datastructures and Algorithms (RWTH, Summer 2018) 
 - Concurrency Theory (RWTH, Winter 2017)
 - Compiler Construction (RWTH, Summer 2017)
 - Introduction to Model Checking (RWTH, Summer 2016)
 - Modeling and Verification of Probabilistic Systems (RWTH, Winter 2015)
+
+### Guest lectures
+- Introduction to probabilistic model checking (UC Berkeley, Formal Methods, 2020)
+- On parameter synthesis (RWTH, Modeling and Verification of Probabilistic Systems, 2019)
 
 ### Seminar Projects 
 - Introduction to Program Analysis (RWTH, Proseminar, Sumer 2019)
@@ -103,7 +108,10 @@ I co-organised the 1st and 2nd UnRAVEL Spring Meetings.
 - Probabilistic Programming (RWTH, Seminar, Summer 2016)
 - Algorithms and Data Structures (RWTH, Proseminar, Winter 2015)
 
-### Guest lectures
-- Introduction to probabilistic model checking (UC Berkeley, Formal Methods, 2020)
-- On parameter synthesis (RWTH, Modeling and Verification of Probabilistic Systems, 2019)
+### Lab supervision
+- Multi-agent systems with Lego Mindstorms (Winter 2013)
+
+### Student team
+I was team-leader in the CaroloCup, where a student team rebuilds an RC-Car in scale 1:10 to an autonomous vehicle.
+
 
