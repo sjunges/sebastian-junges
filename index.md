@@ -49,6 +49,7 @@ Moreover, I have given (external) seminar talks at ISCAS (Beijing), IST Austria,
 
 ### PC Membership
 
+- [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)
 - [FORMATS 2020](https://formats-2020.cs.ru.nl)
 - [SETTA 2020](http://lcs.ios.ac.cn/setta2020/index.html)
 - [SYNT 2020](http://pl.cs.uchicago.edu/synt2020/)
