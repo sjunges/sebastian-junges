@@ -5,17 +5,16 @@ I am a researcher and have been a PostDoc at UC Berkeley since March 2020. I am 
 Previously, I was a PhD student at [RWTH Aachen University](https://moves.rwth-aachen.de/), under the supervision of Joost-Pieter Katoen. 
 I defended my PhD thesis titled [Parameter Synthesis in Markov Models](http://doi.org/10.18154/RWTH-2020-02348) [(pdf)](http://publications.rwth-aachen.de/record/783179/files/783179.pdf) in February 2020.  
 
-You can reach me at sjunges?berkeley.edu
+You can reach me at sjunges?berkeley.edu.
 
 ## Research Interest
 
-I am broadly interested in the automatic analysis of critical systems. This interest includes modelling and verification aspects. In particular, I am interested in the analysis of models that explicitly model uncertainty.  
+I am broadly interested in the automatic analysis of critical systems. 
+This interest includes both modelling and verification aspects. 
+In particular, I am interested in the analysis of models that explicitly model uncertainty.  
 
-Some models and methods I often work with are:
-- (Probabilistic) Model checking and abstraction.
-- SAT and SMT solvers.
-- Markov decision processes (MDPs), in particular also parametric or partially observable MDPs.
-- Fault trees, in particular their dynamic extensions.
+I often work with probabilstic model checkers and SAT/SMT solvers and analyze extensions of Markov decision processes (MDPs),
+in particular also parametric or partially observable MDPs. My research is largely driven by the development and implementation of algorithms.
 
 ## Publications
 
@@ -60,7 +59,7 @@ Moreover, I have given (external) seminar talks at ISCAS (Beijing), IST Austria,
 #### Conferences
 ATVA, ADHS, CAV, CDC, Concur, FM, FORTE, Gandalf, HVC, ICALP, iFM, Memocode, MMB, PSI, QEST, SafeComp.
 #### Journals
-FMSD, J.Systems and Software, JCST, Machine Learning, STTT
+FMSD, J. Intelligent Robot Syst, J.Systems and Software, JCST, Machine Learning, STTT.
 
 ### Organised Events
 
