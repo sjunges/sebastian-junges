@@ -55,6 +55,10 @@ Moreover, I have given (external) seminar talks at ISCAS (Beijing), IST Austria,
 - [QAVS 2020](https://qavs.edgecloud.de)
 - ATVA Artefact Evaluation 2019
 
+### Editorial Boards
+
+- Review Editor in [Frontiers in CS - TCS](https://www.frontiersin.org/journals/computer-science/sections/theoretical-computer-science#about)
+
 ### External Reviewer
 #### Conferences
 ATVA, ADHS, CAV, CDC, Concur, FM, FORTE, Gandalf, HVC, ICALP, iFM, Memocode, MMB, PSI, QEST, SafeComp.
