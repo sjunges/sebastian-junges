@@ -32,8 +32,11 @@ Over the years, I’ve been involved in the development of the following tools t
 
 ## Awards
 
+- Borchers Plakette 2020, ProRWTH, for finishing my PhD with distinction. 
 - RWTH ICT Young Researcher Award 2017
 - Fakultätentag Informatik Preis 2015, awarded for the best CS-related Master Thesis at a German University. 
+- Master Preis der Fachgruppe Informatik (RWTH Aachen Univeristy CS Department) for results during my studies.
+- Springorum-Denkmuenze 2015, ProRWTH, for finishing my studies with distinction. 
 
 ## Professional Activities
 
