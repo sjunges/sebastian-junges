@@ -33,21 +33,12 @@ Over the years, I’ve been involved in the development of the following tools t
 ## Awards
 
 - Borchers Plakette 2020, ProRWTH, for finishing my PhD with distinction. 
-- RWTH ICT Young Researcher Award 2017
+- RWTH ICT Young Researcher Award 2017, for advancing the state-of-the-art in a subfield of ICT.
 - Fakultätentag Informatik Preis 2015, awarded for the best CS-related Master Thesis at a German University. 
 - Master Preis der Fachgruppe Informatik (RWTH Aachen Univeristy CS Department) for results during my studies.
 - Springorum-Denkmuenze 2015, ProRWTH, for finishing my studies with distinction. 
 
 ## Professional Activities
-
-### Invited Talks
-
-I have given invited talks at:
-
-- [Theory and Algorithms in Graph and Stochastic Games 2019](http://math.umons.ac.be/gamenet2019/)
-- [GT Verif 2018](http://gt-verif.loria.fr/Wiki.jsp?page=JA-2018)
-
-Moreover, I have given (external) seminar talks at ISCAS (Beijing), IST Austria, LaBRI (Bordeaux), Stanford, UC Berkeley, ULB (Brussels), and at the ROCKS Meetings.
 
 ### PC Membership
 
@@ -64,7 +55,7 @@ Moreover, I have given (external) seminar talks at ISCAS (Beijing), IST Austria,
 
 ### External Reviewer
 #### Conferences
-ATVA, ADHS, CAV, CDC, Concur, FM, FSEN, FORTE, Gandalf, HVC, ICALP, iFM, Memocode, MMB, PSI, QEST, SafeComp.
+ATVA, ADHS, CAV, CDC, Concur, FM, FSEN, FORTE, Gandalf, HVC, ICALP, iFM, Memocode, MMB, PSI, QEST, SafeComp, TACAS
 #### Journals
 FMSD, J. Intelligent Robot Syst, J.Systems and Software, JCST, Machine Learning, STTT.
 
@@ -78,6 +69,33 @@ FMSD, J. Intelligent Robot Syst, J.Systems and Software, JCST, Machine Learning,
 - [Rigorous Automated Planning](https://www.lorentzcenter.nl/lc/web/2020/1240/info.php3?wsid=1240&venue=Oort). Lorentz Center. March 2020.
 - [Safety of Future Systems: Science meets Industry](https://www.lorentzcenter.nl/lc/web/2018/977/info.php3?wsid=977&venue=Oort). Lorentz Center. April 2018.
 - [Machine Learning and Model Checking Join Forces](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18121). Dagstuhl. March 2018.
+
+## Talks
+
+### Invited Talks
+
+I have given invited talks at:
+
+- [OWLS-YR 2020](https://www.cs.bham.ac.uk/~vicaryjo/owls/)
+- [Theory and Algorithms in Graph and Stochastic Games 2019](http://math.umons.ac.be/gamenet2019/)
+- [GT Verif 2018](http://gt-verif.loria.fr/Wiki.jsp?page=JA-2018)
+
+Moreover, I have given (external) seminar talks at ISCAS (Beijing), IST Austria, LaBRI (Bordeaux), Stanford, UC Berkeley, ULB (Brussels), and at the ROCKS Meetings.  
+
+### Topics
+
+I have recently given talks about:
+
+- The Computational Complexity of Finding Memoryless Policies in POMDPs
+- A SAT-based approach to Enforcing Almost-Sure Reachability in POMDPs 
+- Advanced Methods for the Quantitative Analysis of Software Product Lines
+- The Probabilistic Model Checker Storm
+- Parameter Synthesis for Markov Models
+
+Older topics include:
+- Modelling and Analysis with Dynamic Fault Trees
+- Multi-objective Model Checking of Markov Automata
+
 
 ## Teaching
 
